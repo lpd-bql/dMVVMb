@@ -18,7 +18,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		E6AFCB2C2D13B1C200C2DC01 /* Exceptions for "dMVVMb" folder in "dMVVMb" target */ = {
+		E6F41BCB2D7A94EC005CF7A6 /* Exceptions for "dMVVMb" folder in "dMVVMb" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -28,10 +28,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E6AFCB1C2D13B1C100C2DC01 /* dMVVMb */ = {
+		E6F41BBD2D7A94EC005CF7A6 /* dMVVMb */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				E6AFCB2C2D13B1C200C2DC01 /* Exceptions for "dMVVMb" folder in "dMVVMb" target */,
+				E6F41BCB2D7A94EC005CF7A6 /* Exceptions for "dMVVMb" folder in "dMVVMb" target */,
 			);
 			path = dMVVMb;
 			sourceTree = "<group>";
@@ -56,7 +56,6 @@
 				918DA1366F2A0E135C947BB5 /* Pods-dMVVMb.debug.xcconfig */,
 				1D07B4F45006EA5C1D1FF257 /* Pods-dMVVMb.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -71,7 +70,7 @@
 		E6AFCB112D13B1C100C2DC01 = {
 			isa = PBXGroup;
 			children = (
-				E6AFCB1C2D13B1C100C2DC01 /* dMVVMb */,
+				E6F41BBD2D7A94EC005CF7A6 /* dMVVMb */,
 				E6AFCB1B2D13B1C100C2DC01 /* Products */,
 				144C0030CD63A571344FF582 /* Pods */,
 				9BCFA77FD85E9C58EAB2FDC3 /* Frameworks */,
@@ -104,7 +103,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				E6AFCB1C2D13B1C100C2DC01 /* dMVVMb */,
+				E6F41BBD2D7A94EC005CF7A6 /* dMVVMb */,
 			);
 			name = dMVVMb;
 			productName = dMVVMb;

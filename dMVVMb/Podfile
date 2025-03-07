@@ -8,5 +8,6 @@ target 'dMVVMb' do
   # Pods for dMVVMb
 
   pod 'SnapKit'
+  # pod 'Kingfisher', '7.6.2'
 
 end
