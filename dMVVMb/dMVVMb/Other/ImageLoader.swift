@@ -33,6 +33,7 @@ class ImageLoader {
     }
 
     private func loadImage(from url: String) -> AnyPublisher<UIImage?, Never> {
+        // Future 是 一次性发布数据的 Publisher
         return Future<UIImage?, Never> { promise in
             guard let imageURL = URL(string: url) else {
                 promise(.success(nil))
